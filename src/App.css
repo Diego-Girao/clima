@@ -1,0 +1,42 @@
+h1{
+  justify-content: center;
+  font-family: monospace;
+  font-size: 2rem;
+  box-sizing: border-box;
+  display: flex;
+}
+h3{
+  justify-content: center;
+  font-family: monospace;
+  font-size: 2rem;
+  box-sizing: border-box;
+  display: flex;
+  background-image:linear-gradient(to right, rgba(0, 0, 0, 0.199), white) ;  
+}
+
+ul{
+  align-items: center;
+  font-family: monospace;
+  font-size: 1.5rem;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  padding: auto;
+  background-image:linear-gradient(to right,rgba(0, 0, 0, 0.199), white) ;  
+}
+
+button{
+  box-sizing: border-box;
+  display: flex;
+  padding: auto;
+  width: 1000vw;
+  height: 5vh;
+  font-family: monospace;
+  font-size: 1rem;
+  justify-content: center;
+  align-items: center;
+}
+
+body {
+  background-color: whitesmoke;
+}
